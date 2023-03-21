@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunksilc=self.webpackChunksilc||[]).push([[134],{3134:function(l,s,n){n.r(s);n(2791);var u=n(184);s.default=function(l){var s=l.logo;return(0,u.jsx)("div",{className:"fund__logo",children:s?(0,u.jsx)("img",{src:s,alt:"fund logo"}):null})}}}]);
+//# sourceMappingURL=134.04944880.chunk.js.map
